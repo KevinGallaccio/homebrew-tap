@@ -6,8 +6,8 @@ class FreeboxCli < Formula
 
   desc "Freebox Ultra CLI — the box, the network, and the VMs, from the terminal"
   homepage "https://github.com/KevinGallaccio/freebox-cli"
-  url "https://files.pythonhosted.org/packages/27/40/ec2334bd32ffca817958e00b7dac1a9f68525529502bdcb4c5734575f8a8/freebox_cli-0.6.0.tar.gz"
-  sha256 "20753c67a761f4e59549b25f91dd703f0b389d6ad91551c0b797eed97fb81ab0"
+  url "https://files.pythonhosted.org/packages/bc/bf/a1731d646cf8485e18277f6b40d4ef960f4f31375335554850f49a2b6a7a/freebox_cli-0.7.0.tar.gz"
+  sha256 "e5cffac16b92f6ea1902cdced523c691b108020034882ded9040ba740eb15207"
   license "MIT"
 
   depends_on "python@3.14"
